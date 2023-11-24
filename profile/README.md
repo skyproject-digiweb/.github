@@ -29,7 +29,7 @@ sky-registry-import
 ### Developer Kubernetes environment configurations:
 - skyproject-k8s
 
-### Docker versions of project:
+### Docker versions:
 - DOZZLE_VERSION=pr-2530
 - JAEGER_VERSION=1.51
 - KEYCLOAK_VERSION=11.0.2
