@@ -8,15 +8,15 @@ Sky Project by DigiWeb
 
 ## Project Modules
 
-sky-portal
-sky-projects-ng
-sky-dashboard-ng
-skyproject-keycloak
-sky-configuration
-sky-processing-tool
-sky-operations
-sky-registry
-sky-registry-import
+- sky-portal
+- sky-projects-ng
+- sky-dashboard-ng
+- skyproject-keycloak
+- sky-configuration
+- sky-processing-tool
+- sky-operations
+- sky-registry
+- sky-registry-import
 
 
 ### Install repositories:
