@@ -5,7 +5,7 @@
 
 ## Project Modules
 
-- [sky-portal] (https://github.com/skyproject-digiweb/sky-portal)
+- [sky-portal](https://github.com/skyproject-digiweb/sky-portal)
 - sky-projects-ng
 - sky-dashboard-ng
 - skyproject-keycloak
