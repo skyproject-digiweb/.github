@@ -26,7 +26,7 @@ repo_name="skyproject-docker-compose"
 
 # Step 2: Clone GitHub repo using the token
 echo "Cloning GitHub repo..."
-git clone --depth=1 https://${github_username}:${github_token}@github.com/skyproject-digiweb/${repo_name}.git
+git clone https://${github_username}:${github_token}@github.com/skyproject-digiweb/${repo_name}.git
 cd ${repo_name}
 chmod +x digiweb.sh
 
