@@ -7,8 +7,8 @@ command_exists() {
 
 # Function to check if the current user is in the "docker" group
 check_docker_group() {
-#  groups | grep -wq "docker"
-  docker info | grep docker
+  groups | grep -wq "docker"
+#  docker info | grep docker
 }
 
 check_docker_network_create() {
