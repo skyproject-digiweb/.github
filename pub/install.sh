@@ -35,7 +35,7 @@ else
 fi
 
 # Step 0: harcode username
-github_username="s-boldrin"
+github_username="dgiweb-dev"
 
 # Step 1: Ask for GitHub token
 read -p "Enter your GitHub token: " github_token
